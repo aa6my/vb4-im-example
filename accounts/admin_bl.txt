@@ -1,0 +1,10 @@
+[Buddylist]
+Total=2
+
+[Buddy_1]
+UserID=you
+Title=Youralia
+
+[Buddy_2]
+UserID=guest
+Title=Pie Boy!

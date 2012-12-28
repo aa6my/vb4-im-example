@@ -1,0 +1,4 @@
+[Accounts]
+you=password
+admin=admin
+guest=guest

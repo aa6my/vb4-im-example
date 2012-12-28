@@ -1,0 +1,10 @@
+[Buddylist]
+Total=2
+
+[Buddy_1]
+UserID=admin
+Title=Administrator
+
+[Buddy_2]
+UserID=you
+Title=Youralia
